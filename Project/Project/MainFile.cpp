@@ -11,6 +11,7 @@
 #define MAXMARKVALUE 10000
 
 using namespace System;
+using namespace System::IO;
 
 int main()
 {
@@ -22,6 +23,7 @@ int main()
 
 	int a[MAXCOUNTCROSSROADS][MAXCOUNTCROSSROADS]; // Матрица длинн связей (-1 означает, что связи нет) 
 	float x, y; //	Координаты точки
+
 
 	//		Временные переменные (для ввода с консоли)
 	
@@ -61,6 +63,11 @@ int main()
 		town->AddATM(elATM);
 
 	}
+
 	
+
+
+
+
 	return 0;
 }

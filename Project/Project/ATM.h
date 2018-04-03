@@ -14,8 +14,8 @@ public:
 	int GetNumber();
 	int GetMark();
 	bool GetVisitTops();
-	bool SetATMCoordinateX(float ATMCoordinateX1);
-	bool SetATMCoordinateY(float ATMCoordinateY1);
+	void SetATMCoordinateX(float ATMCoordinateX1);
+	void SetATMCoordinateY(float ATMCoordinateY1);
 	bool SetMark(int Mark1);
 	bool SetVisitTops(bool VisitTops1);
 };

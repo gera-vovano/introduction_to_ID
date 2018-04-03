@@ -14,8 +14,8 @@ public:
 	int GetNumber();
 	int GetMark();
 	bool GetVisitTops();
-	bool SetCarCoordinateX(float CarCoordinateX1);
-	bool SetCarCoordinateY(float CarCoordinateY1);
+	void SetCarCoordinateX(float CarCoordinateX1);
+	void SetCarCoordinateY(float CarCoordinateY1);
 	bool SetMark(int Mark1);
 	bool SetVisitTops(bool VisitTops1);
 };

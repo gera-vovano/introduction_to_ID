@@ -36,16 +36,14 @@ bool Cash—ollectorMachine::GetVisitTops()
 }
 
 
-bool Cash—ollectorMachine::SetCarCoordinateX(float CarCoordinateX1)
+void Cash—ollectorMachine::SetCarCoordinateX(float CarCoordinateX1)
 {
 	CarCoordinateX = CarCoordinateX1;
-	return true;
 }
 
-bool Cash—ollectorMachine::SetCarCoordinateY(float CarCoordinateY1)
+void Cash—ollectorMachine::SetCarCoordinateY(float CarCoordinateY1)
 {
 	CarCoordinateY = CarCoordinateY1;
-	return true;
 }
 
 bool Cash—ollectorMachine::SetMark(int Mark1)

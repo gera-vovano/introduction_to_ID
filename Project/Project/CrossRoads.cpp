@@ -32,16 +32,15 @@ bool CrossRoads::GetVisitTops()
 	return VisitTops;
 }
 
-bool CrossRoads::SetCoordinateX(float CoordinateX1)
+void CrossRoads::SetCoordinateX(float CoordinateX1)
 {
 	CoordinateX = CoordinateX1;
-	return true;
+
 }
 
-bool CrossRoads::SetCoordinateY(float CoordinateY1)
+void CrossRoads::SetCoordinateY(float CoordinateY1)
 {
 	CoordinateY = CoordinateY1;
-	return true;
 }
 
 

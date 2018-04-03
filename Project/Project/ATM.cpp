@@ -37,16 +37,14 @@ bool ATM::GetVisitTops()
 
 
 
-bool ATM::SetATMCoordinateX(float ATMCoordinateX1)
+void ATM::SetATMCoordinateX(float ATMCoordinateX1)
 {
 	ATMCoordinateX = ATMCoordinateX1;
-	return true;
 }
 
-bool ATM::SetATMCoordinateY(float ATMCoordinateY1)
+void ATM::SetATMCoordinateY(float ATMCoordinateY1)
 {
 	ATMCoordinateY = ATMCoordinateY1;
-	return true;
 }
 
 
