@@ -1,0 +1,9 @@
+﻿  ATM.cpp
+  CashСollectorMachine.cpp
+  City.cpp
+  CrossRoads.cpp
+  MainFile.cpp
+MainFile.cpp(23): warning C4101: a: неиспользованная локальная переменная
+  Создание кода...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Project.vcxproj -> C:\Users\Тимур\Desktop\Project\Debug\Project.exe
