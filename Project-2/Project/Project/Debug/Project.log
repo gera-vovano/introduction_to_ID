@@ -1,0 +1,10 @@
+﻿  City.cpp
+City.cpp(38): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+City.cpp(39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+City.cpp(40): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+City.cpp(47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+City.cpp(62): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+City.cpp(63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+City.cpp(64): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+City.cpp(70): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Project.vcxproj -> C:\Users\Тимур\Desktop\Project\Debug\Project.exe
